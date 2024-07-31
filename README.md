@@ -2,7 +2,7 @@
 
 **About me**
 
-I'm a recent graduate with a Bachelor's degree in Information Technology and a strong interest in cloud security. I'm passionate about becoming a DevSecOps Engineer and building secure and reliable cloud infrastructure.
+I'm a recent graduate with a Bachelor's degree in Information Technology and a strong interest in cloud security. I'm passionate about becoming a DevOps Engineer and building secure and reliable cloud infrastructure.
 
 **Skills**
 
