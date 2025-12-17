@@ -9,3 +9,11 @@ My best portfolio piece is my **terminal-based resume**, demonstrating my profic
 
 ```bash
 npx kai-resume
+
+Quick Details
+
+Built with: Node.js, Chalk, Boxen, Figlet (demonstrating CLI libraries).
+
+Package on NPM: https://www.npmjs.com/package/kai-resume
+
+Source Code: https://github.com/KAI-77/resume-cli
